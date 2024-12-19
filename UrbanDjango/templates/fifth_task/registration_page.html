@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <p>
+        {{ error }}
+
+    </p>
+  <form method="post">
+    {% csrf_token %}
+      {% block form %}
+    <input type="text"  id="username" name="username" placeholder="Username" maxlength="30" required="required" />
+    <input type="password" id="password" name="password" placeholder="Password" minlength="8" required="required" />
+    <input type="password" id="confirm_password" name="confirm_password" placeholder="Confirm Password">
+    <input type="text"  id="age" name="age" placeholder="Age" maxlength="3"  />
+    <input type="submit" value="Register">
+      {% endblock %}
+  </form>
+</body>
+</html>

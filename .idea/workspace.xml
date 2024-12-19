@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a411b8ed-0940-4ea5-90a0-95dd4cf15c5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/bin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/store.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/module18.2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/module18.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/.idea/UrbanDjango.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fifth_task/registration_page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/third_task/bin.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/bin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/third_task/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/third_task/store.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/store.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,21 +29,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Maximovex"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Maximovex&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Maximovex/module18.2.git",
-    "accountId": "5d858655-5059-42a8-8c51-bf420912d7b6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Maximovex/module18.2.git&quot;,
+    &quot;accountId&quot;: &quot;5d858655-5059-42a8-8c51-bf420912d7b6&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2q7NsGGxWSSxve6SpxNsORRFQac" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -56,14 +52,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python_studying/module18.2/UrbanDjango/templates/fourth_task"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python_studying/module18.2/UrbanDjango/templates/fourth_task&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python_studying\module18.2\UrbanDjango\templates\fourth_task" />
@@ -101,7 +99,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734021137696</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="12">
+      <option name="closed" value="true" />
+      <created>1734099234224</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734099234224</updated>
+    </task>
+    <task id="LOCAL-00004" summary="12">
+      <option name="closed" value="true" />
+      <created>1734099413019</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734099413019</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -19,12 +19,15 @@ from django.urls import path
 from task2.views import function_template,class_render
 # from task3.views import index,store_render,bin_render
 from task4.views import index,store_render,bin_render
+from task5.views import sign_up_by_html,sign_up_by_django
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('',index),
+
     path('store/',store_render),
-    path('bin/',bin_render.as_view())
-
-
+    path('bin/',bin_render.as_view()),
+    path('',sign_up_by_html),
+    path('django_sign_up/',sign_up_by_django),
 ]
+
+
